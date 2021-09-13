@@ -1,0 +1,7 @@
+Java Launcher: /usr/lib/jvm/java-8-openjdk/bin/java
+Arguments: '--inJar, /home/noah/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.2.4/forge-1.16.5-36.2.4-injected.jar, --outJar, /home/noah/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.2.4_mapped_official_1.16.5/forge-1.16.5-36.2.4_mapped_official_1.16.5.jar, --logFile, accesstransform.log, --atFile, /home/noah/Storage/code/minecraft/pv/build/_atJar_5/parent_at.cfg'
+Classpath:
+ - /home/noah/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1-fatjar.jar
+Working directory: /home/noah/Storage/code/minecraft/pv/build/_atJar_5
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
