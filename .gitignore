@@ -34,4 +34,8 @@ Thumbs.db
 *.psd
 
 # Files from Forge MDK
-forge*changelog.txt
+forgechangelog.txt
+src/config/*
+src/config
+src/logs/*
+src/logs
